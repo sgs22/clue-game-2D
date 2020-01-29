@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WeaponCard
+  - CharCard
+  - EmptyCard
+  - RoomCard
+  - Exit
+  - Food
+  - Enemy
+  - Player1
+  - Player6
+  - Player5
+  - Player4
+  - Player2
+  - Player3
+  - BallRoom
+  - Conservatory
+  - Hall
+  - Kitchen
+  - DiningRoom
+  - PoolRoom
+  - Lounge
+  - Library
+  - BilliardRoom
+  - Study
+  - Default
+  - Question
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
